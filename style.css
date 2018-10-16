@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.city{
+  width: 30vw;
+  height: 30vh;
+  position: relative;
+  margin: auto;
+}
