@@ -9,3 +9,53 @@
   position: relative;
   margin: auto;
 }
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.city{
+  width: 30vw;
+  height: 30vh;
+  position: relative;
+  margin: auto;
+}
+
+.dubai{
+  background: url('https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cms/dubai-marina-during-nighttime-1501058510-1000X561.jpg');
+  background-size: cover;
+}
+
+.losangeles{
+  background: url('https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/istock-512154788.jpg?itok=jTYO7ZHQ');
+  background-size: cover;
+}
+
+.honolulu{
+    background: url('http://www.orangesmile.com/hotel-slideshow/us/20030916__28887.jpg');
+    background-size: cover;
+}
+
+.new{
+  background: url('https://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images/articles/New_York_City_Electricity_Energy_XL_721_420_80_s_c1.jpg');
+  background-size: cover;
+}
+
+.sfondo{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30vw;
+  height: 30vh;
+  background: rgba(0,0,0,.5);
+}
+
+p{
+  position: absolute;
+  top: 13vh;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+}
